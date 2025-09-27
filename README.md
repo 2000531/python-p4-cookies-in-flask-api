@@ -13,7 +13,7 @@
   focuses on users, their attributes, their login information, and the resources
   that they are allowed to access.
 - **Authentication**: proving one's identity to an application in order to
-  access protected information; logging in.
+  accesxs protected information; logging in.
 - **Authorization**: allowing or disallowing access to resources based on a
   user's attributes.
 - **Session**: the time between a user logging in and logging out of a web
